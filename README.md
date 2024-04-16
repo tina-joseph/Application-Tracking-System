@@ -19,7 +19,9 @@ Overall, this project leverages cutting-edge technology to automate and optimize
 
   
 ## Streamlit App
+
 Figure 1: ATS Streamlit App
+
 ![App Screenshot](images/img.png)
 
 
@@ -31,4 +33,5 @@ Figure 1: ATS Streamlit App
 
   
 Figure 2: ATS Results Page
+
 ![ATS Results](images/img2.png)
