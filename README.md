@@ -9,6 +9,7 @@ The main features of this project include:
 - Customized prompts for different job roles are stored in the '/prompts/' folder, allowing for tailored feedback based on the selected role in the dropdown menu.
 - PyPDF2 is used for PDF processing, and the app integrates with the Google GenAI API for keyword matching. The app displays profile match percentages and other details, which helps candidates optimize their resumes and recruiters streamline their recruitment process.
 
-Overall, this is an innovative project that leverages cutting-edge technology to automate and optimize the job application process, making it easier for both job seekers and recruiters.
+Overall, this project leverages cutting-edge technology to automate and optimize the job application process, making it easier for job seekers and recruiters.
 
-
+![App Screenshot](images/img.png)
+![ATS Results](images/img2.png)
